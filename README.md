@@ -1,2 +1,2 @@
 # gis_iot
-This is the iot part of GIS project
+This is the IOT part of GIS project
